@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-
+    
     float limite;
     float temperatura;
     float soma = 0;
