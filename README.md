@@ -3,7 +3,7 @@
 ## 1. Identificação
 
 **Nome:** Isaac Araújo Torres Resende  
-**Disciplina:** Programação de Computadores  
+**Disciplina:** Algoritmos e Pensamentos Computacionais 
 **Professora:** Profa. Karla Sartin  
 **Projeto:** Sistema de Monitoramento de Temperatura
 
